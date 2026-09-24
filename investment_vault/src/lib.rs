@@ -1202,6 +1202,7 @@ impl InvestmentVault {
             .unwrap_or(1)
     }
 
+
     // ── Dynamic fee structure (#39) ───────────────────────────────────────────
 
     /// Configure a two-tier volume-discount fee schedule for deposits (#39).
